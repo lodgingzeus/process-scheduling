@@ -1,0 +1,17 @@
+.buttonAlgo{
+    border-radius: 15px !important; 
+    width: 70px;
+}
+
+#timeQuantum{
+  width: 80px;
+}
+
+body {
+  color: white;
+  background-color: #2a2a2a;
+}
+
+th, tbody {
+  color: white
+}
